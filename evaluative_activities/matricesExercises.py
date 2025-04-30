@@ -67,7 +67,7 @@ def matriceExercise():
 
     #Plotando as retas
     plt.figure(figsize=(6,6));
-    plt.plot(x_vals, y1, label='2x + y = 5');
+    plt.plot(x_vals, y1, label='3x + 2y = 12');
     plt.plot(x_vals, y2, label='x - y = 1');
 
     #Plotando o ponto de interseção
